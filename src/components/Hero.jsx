@@ -409,7 +409,7 @@ export default function Hero() {
             className="font-parisienne text-6xl md:text-8xl lg:text-9xl text-white leading-none block"
             style={{ textShadow: '0 2px 60px rgba(212,175,55,0.6), 0 0 120px rgba(212,175,55,0.3)' }}
           >
-            Venus
+            Mi Diosa
           </ShimmerText>
         </motion.div>
 
