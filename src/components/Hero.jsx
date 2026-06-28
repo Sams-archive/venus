@@ -424,7 +424,7 @@ export default function Hero() {
           }
           transition={{ duration: 0.9, delay: 1.2 }}
         >
-          Celebrating the most incredible woman — today and always.
+          Celebrating the most incredible woman <br/> today and always.
         </motion.p>
 
         {/* CTA Button */}
